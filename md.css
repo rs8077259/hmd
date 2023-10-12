@@ -1,0 +1,10 @@
+body{
+    font-size: 1.2rem;
+    background-color: whitesmoke;
+}
+@media (prefers-color-scheme:dark){
+    body{
+        background-color: rgb(24, 20, 20);
+        color: whitesmoke;
+    }
+}
